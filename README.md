@@ -12,16 +12,23 @@
 
 ## What’s included
 - `notebooks/` — Primary `.nb` files (execute top-to-bottom).
-- `exports/` — HDF5 `.h5` outputs only (no PDFs provided).
+- `exports/` — HDF5 `.h5` outputs.
 - `LICENSE` — CC BY-NC-SA 4.0 International.
 
 ---
 
 ## How to run
 - Open a notebook and evaluate **top to bottom** (Evaluation → Evaluate Notebook).
-- Keep relative paths as provided; run from the project root if applicable.
+- Run from the project root if applicable.
 
 ---
 
 ## Citing
-Please cite the Zenodo record once the DOI is available:
+Please cite the Github, Main manuscript and Zenodo record and once the DOIs are available:
+
+---
+
+## License
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).**  
+You are free to **share** and **adapt** the materials for **non-commercial** purposes, provided you give appropriate **attribution** and distribute contributions under the **same license**.  
+Full text: https://creativecommons.org/licenses/by-nc-sa/4.0/
