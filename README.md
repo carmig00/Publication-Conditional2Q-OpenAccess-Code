@@ -24,7 +24,7 @@
 ---
 
 ## Citing
-Please cite the Github, Main manuscript and Zenodo record and once the DOIs are available:
+Please cite the most current Main manuscript DOI and Github or Zenodo record, once the DOI is available.
 
 ---
 
