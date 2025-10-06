@@ -2,7 +2,7 @@
 # Simulations: Mathematica Notebooks for “Conditional Operation of Hole Spin Qubits above 1K”
 
 **Authors:** Miguel J. Carballido ([ORCID 0000-0001-7385-8284](https://orcid.org/0000-0001-7385-8284)), et al.  
-**DOI:** TBD (Zenodo DOI will be added after publication)  
+**DOI:** TBD (Publication and Zenodo DOI will be added after publication)  
 **Project mirror:** https://github.com/carmig00/Publications-OpenAccess-Code-Conditional2Q  
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -14,6 +14,13 @@
 - `notebooks/` — Primary `.nb` files (execute top-to-bottom).
 - `exports/` — HDF5 `.h5` outputs.
 - `LICENSE` — CC BY-NC-SA 4.0 International.
+
+---
+
+**Requirements**
+- Software: **Wolfram Mathematica 14.2** (tested)  
+- ran on OS: **Windows 11, version 24H2** (tested)
+- Optional viewer: **Wolfram Player** (for read-only viewing, not tested)
 
 ---
 
