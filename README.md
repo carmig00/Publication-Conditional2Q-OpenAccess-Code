@@ -11,7 +11,7 @@
 ---
 
 ## What’s included
-- `notebooks/` — Primary `.nb` files (execute top-to-bottom).
+- `notebooks/` — Primary `.nb` files (execute top-to-bottom). Code also available as PDF.
 - `exports/` — HDF5 `.h5` outputs.
 - `LICENSE` — CC BY-NC-SA 4.0 International.
 
