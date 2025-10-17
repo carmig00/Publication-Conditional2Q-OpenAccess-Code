@@ -10,10 +10,12 @@
 
 ---
 
-## What’s included
+## What’s included on GitHub
 - `notebooks/` — Primary `.nb` files (execute top-to-bottom). Code also available as PDF.
-- `exports/` — HDF5 `.h5` outputs.
 - `LICENSE` — CC BY-NC-SA 4.0 International.
+## What’s included on ZENODO
+- `notebooks/` — Primary `.nb` files (execute top-to-bottom). Code also available as PDF.
+- `exports/` — HDF5 `.h5` outputs. IMPORTANT NOTE: Output files were too large for GitHub!
 
 ---
 
